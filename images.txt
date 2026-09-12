@@ -1,1 +1,1 @@
-ghcr.io/google/cadvisor:0.55.1
+registry.k8s.io/sig-storage/nfs-subdir-external-provixioner:v4.0.2
